@@ -25,7 +25,7 @@ See the [plugin usage article](https://github.com/HeliosOrg/SimpleDataIntegratio
 2. Then, follow the [plugin setup article](https://github.com/HeliosOrg/SimpleDataIntegration/wiki/Plugin-Setup).
 
 ### Technical Details
-To create such simple Blueprint nodes, we had to do bunch of non-inuitive work behind the scenes. If you want to learn how the plugin works and/or help contribute to this open source project, check out our [technical details article](https://github.com/HeliosOrg/SimpleDataIntegration/wiki/Technical-Details)! Also, we learned a lot while building this plugin, so in that article, we've also shared some of the questions we had and roadblocks we ran into in case they're of any help to you.
+To create such simple Blueprint nodes, we had to do bunch of non-intuitive work behind the scenes. If you want to learn how the plugin works and/or help contribute to this open source project, check out our [technical details article](https://github.com/HeliosOrg/SimpleDataIntegration/wiki/Technical-Details)! Also, we learned a lot while building this plugin, so in that article, we've also shared some of the questions we had and roadblocks we ran into in case they're of any help to you.
  
 ### The Team
 
