@@ -3,7 +3,7 @@
 # Simple Data Integration in UE4 by Helios
 
 ### About
-Integrating external data sources (i.e Twitter's API, data from an AWS server) into UE4 can be a real hassle for even the most experienced of developers. And for developers who primarily use Blueprints visual-scripting to build applications, this hassle becomes a near impossibility. More often than not, developers well-versed in handling web requests via simple AJAX calls must write vanilla C++ in UE4 to replicate the same functionality. Yuck!
+Integrating external data sources (i.e Twitter's API, data from an AWS server) into Unreal Engine 4 can be a real hassle for even the most experienced of developers. And for developers who primarily use Blueprints visual-scripting to build applications, this hassle becomes a near impossibility. More often than not, developers well-versed in handling web requests via simple AJAX calls must write vanilla C++ in UE4 to replicate the same functionality. Yuck!
 
 Enter the **Helios Simple Data Integration (SDI) Plugin**.
 
@@ -11,7 +11,7 @@ The **Helios SDI Plugin** allows you to integrate external data into your UE4 cl
 
 - Control an in-game experience via an internet-connected device (e.g. changing lighting, weather, etc.) such as an iPad
 
-- Send data to server, to be consumed by a separate client (e.g. web app showing heat-maps of kill locations, live match-tracking tickers, etc.)
+- Send data to a server, to be consumed by a separate client (e.g. web app showing heat-maps of kill locations, live match-tracking tickers, etc.)
 
 - Communicate with third-party APIs such as Twitter, Facebook, Youtube, etc. from inside your UE4 client
 
@@ -25,7 +25,7 @@ See the [plugin usage article](https://github.com/HeliosOrg/SimpleDataIntegratio
 2. Then, follow the [plugin setup article](https://github.com/HeliosOrg/SimpleDataIntegration/wiki/Plugin-Setup).
 
 ### Technical Details
-To create such simple Blueprint nodes, we had to do bunch of non-intuitive work behind the scenes. If you want to learn how the plugin works and/or help contribute to this open source project, check out our [technical details article](https://github.com/HeliosOrg/SimpleDataIntegration/wiki/Technical-Details)! Also, we learned a lot while building this plugin, so in that article, we've also shared some of the questions we had and roadblocks we ran into in case they're of any help to you.
+To create such simple Blueprint nodes, we had to do a bunch of non-intuitive work behind the scenes. If you want to learn how the plugin works and/or help contribute to this open source project, check out our [technical details article](https://github.com/HeliosOrg/SimpleDataIntegration/wiki/Technical-Details)! We learned a lot while building this plugin, so we've also shared some of the questions we had and roadblocks we ran into in case they're of any help to you.
  
 ### The Team
 
