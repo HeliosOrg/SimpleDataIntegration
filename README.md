@@ -17,6 +17,8 @@ The **Helios SDI Plugin** allows you to integrate external data into your UE4 cl
 
 Facilitating the server-client interaction between a web server and UE4 Blueprints is critical for developers who want to enrich their in-game experience by pulling in (or pushing out) data sources external to UE4. The Helios SDI Plugin allows you to do this without ever writing a line of C++!
 
+![Diagram](http://i.imgur.com/2VHQoyr.png)
+
 ### Usage Notes
 See the [plugin usage article](https://github.com/HeliosOrg/SimpleDataIntegration/wiki/Plugin-Usage) for information on how to use the nodes and for usage examples.
 
