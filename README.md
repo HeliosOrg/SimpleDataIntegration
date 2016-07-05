@@ -2,6 +2,8 @@
 
 # Simple Data Integration in UE4 by Helios
 
+![Diagram](http://i.imgur.com/2VHQoyr.png)
+
 ### About
 Integrating external data sources (i.e Twitter's API, data from an AWS server) into Unreal Engine 4 can be a real hassle for even the most experienced of developers. And for developers who primarily use Blueprints visual-scripting to build applications, this hassle becomes a near impossibility. More often than not, developers well-versed in handling web requests via simple AJAX calls must write vanilla C++ in UE4 to replicate the same functionality. Yuck!
 
@@ -17,10 +19,16 @@ The **Helios SDI Plugin** allows you to integrate external data into your UE4 cl
 
 Facilitating the server-client interaction between a web server and UE4 Blueprints is critical for developers who want to enrich their in-game experience by pulling in (or pushing out) data sources external to UE4. The Helios SDI Plugin allows you to do this without ever writing a line of C++!
 
-![Diagram](http://i.imgur.com/2VHQoyr.png)
+For example, search for a variable you’d like to get the value of:
+
+![nodes_right_click](http://i.imgur.com/yzeKPwr.png)
+
+And drop the auto-generated node into your project!
+
+![get_decal](http://i.imgur.com/oWyfee6.png)
 
 ### Usage Notes
-See the [plugin usage article](https://github.com/HeliosOrg/SimpleDataIntegration/wiki/Plugin-Usage) for information on how to use the nodes and for usage examples.
+See the [plugin usage article](https://github.com/HeliosOrg/SimpleDataIntegration/wiki/Plugin-Usage) for more examples and for information on how to use the nodes.
 
 ### Installation Notes
 1. First, follow the [server setup article](https://github.com/HeliosOrg/SimpleDataIntegration/wiki/Server-Setup).
